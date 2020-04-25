@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlwaysOnWidget</string>
+    <string name="setup_instructions">
+        Developer settings not enabled.\n\n To enable developer settings
+        on your android device, open "Settings", select \"System\" >> \"About phone\",
+        and tap \"Build Number\" 5 times. "Developer options" should appear under
+        \"Settings\" >> \"System\" after.
+    </string>
+    <string name="stay_awake_is_enabled">\"Stay Awake\" is enabled</string>
+    <string name="stay_awake_is_disabled">\"Stay Awake\" is disabled</string>
+    <string name="settings">Settings</string>
+</resources>
